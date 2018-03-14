@@ -14,7 +14,7 @@ A burger devouring app using the MVC architectural pattern and Sequelize
 * Handlebars Templates and Layouts
 * MySQL / JawsDB
 
-## [View Site](https://ancient-dawn-11642.herokuapp.com/ "Eat-Da-Burger")
+## [View Site](https://calm-hamlet-59767.herokuapp.com/ "Eat-Da-Burger")
 
 
 ![Eat-Da-Burger Screenshot](samples/screenshot.png?raw=true "Eat-Da-Burger")
