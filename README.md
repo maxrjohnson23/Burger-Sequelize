@@ -1,9 +1,9 @@
 # Eat-Da-Burger
-A burger devouring app using the MVC architectural pattern
+A burger devouring app using the MVC architectural pattern and Sequelize
 
 ### Topics Covered
 * Model-View-Controller (MVC)
-* Object Relational Mapping (ORM)
+* Sequelize ORM
 * Express.js
     * HTTP Requests (GET, POST)
     * Routes and static content
@@ -47,7 +47,7 @@ A burger devouring app using the MVC architectural pattern
 1. Create a MySQL database and run the following files to set up the schema
     * db/schema.sql
     * db/seeds.sql
-2. Configure the database connection settings in config/connection.js
+2. Configure the database connection settings in config/config.json
 3. Navigate to the repository folder and run server.js to start
 
    ```
